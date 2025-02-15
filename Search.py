@@ -1,2 +1,3 @@
 print ("Se termina de desarrollar la funcion Search")
-print ("Modificacion de un color")
+print ("Se solucion Search en dispositivos moviles")
+print ("Se soluciona Conflicto debido a la Rama Master")
